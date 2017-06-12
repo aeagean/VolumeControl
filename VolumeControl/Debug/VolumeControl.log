@@ -1,0 +1,7 @@
+﻿  VolumeControl.cpp
+VolumeControl.cpp(106): warning C4101: 'hr': unreferenced local variable
+  Wrapper.cpp
+d:\jinga\projekte\c++\volumecontrol\volumecontrol\VolumeControl.cpp(106): warning C4101: 'hr': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  VolumeControl.vcxproj -> D:\jinga\Projekte\C++\VolumeControl\Debug\VolumeControl.dll
